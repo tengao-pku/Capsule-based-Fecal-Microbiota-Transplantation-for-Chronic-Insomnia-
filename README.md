@@ -1,5 +1,5 @@
-# Capsule-based-Fecal-Microbiota-Transplantation-for-Chronic-Insomnia-
- ChatGPT 说： Data analysis code for the registered randomized controlled trial “The Safety and Efficacy of Fecal Microbiota Transplantation in Patients with Chronic Insomnia Disorder” (ClinicalTrials.gov Identifier: NCT05917379).
+# Capsule-based-Fecal-Microbiota-Transplantation-for-Chronic-Insomnia
+ Data analysis code for the registered randomized controlled trial “The Safety and Efficacy of Fecal Microbiota Transplantation in Patients with Chronic Insomnia Disorder” (ClinicalTrials.gov Identifier: NCT05917379).
 ## Code and Reproducibility
 
 This repository contains the analysis code used for the registered randomized controlled trial 
